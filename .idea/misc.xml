@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/CAS-SpringSecurity" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-seckill-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-task-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-user-web" />
+    <file type="web" url="file://$PROJECT_DIR$/springBootDemo" />
+    <type id="Spring" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/fastDFSDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDateRedisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDataRedisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDataSolrDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/FreemarkerDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/JmsDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springjms_producer/pom.xml" />
+        <option value="$PROJECT_DIR$/springjms_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springBootDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/pyg_sms_service/pom.xml" />
+        <option value="$PROJECT_DIR$/CAS-SpringSecurity/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pyg-order-web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

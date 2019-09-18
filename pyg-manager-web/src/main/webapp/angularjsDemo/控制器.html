@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>入门初始化demo03</title>
+    <script src="../plugins/angularjs/angular.min.js"></script>
+    <script>
+        var app=angular.module('myApp',[]);//定义了一个叫做myAPP的模块
+        //定义控制器
+        app.controller('myController',function ($scope) {
+           $scope.add=function () {
+               return parseInt($scope.x)+parseInt($scope.y)
+           }
+        });
+    </script>
+</head>
+<body ng-app="myApp" ng-controller="myController" ng-init="x=13;y=14"  >
+x值:<input ng-model="x">
+y值:<input ng-model="y">
+运算结果:{{add()}}
+
+</body>
+</html>

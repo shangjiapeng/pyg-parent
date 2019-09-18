@@ -1,0 +1,6 @@
+# Project exclude paths
+/classes/
+/pyg-dao/target/
+/pyg-pojo/target/
+/pyg-sellergoods-interface/target/
+/pyg_sms_service/target/

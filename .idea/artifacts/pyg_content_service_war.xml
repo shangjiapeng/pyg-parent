@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pyg-content-service:war">
+    <output-path>$PROJECT_DIR$/pyg-content-service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>pyg-content-service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="pyg-content-service-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pyg-content-service:war exploded" />
+    </root>
+  </artifact>
+</component>

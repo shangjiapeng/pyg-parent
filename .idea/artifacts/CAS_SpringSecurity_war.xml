@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CAS-SpringSecurity:war">
+    <output-path>$PROJECT_DIR$/CAS-SpringSecurity/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>CAS-SpringSecurity</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="CAS-SpringSecurity-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CAS-SpringSecurity:war exploded" />
+    </root>
+  </artifact>
+</component>

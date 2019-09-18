@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pyg-cart-web" />
+        <module name="pyg-portal-web" />
+        <module name="pyg-search-web" />
+        <module name="SpringDateRedisDemo" />
+        <module name="pyg-manager-web" />
+        <module name="FreemarkerDemo" />
+        <module name="pyg-cart-interface" />
+        <module name="pyg_sms_service" />
+        <module name="pyg-task-service" />
+        <module name="JmsDemo" />
+        <module name="SpringDataRedisDemo" />
+        <module name="pyg-seckill-interface" />
+        <module name="fastDFSDemo" />
+        <module name="pyg-user-web" />
+        <module name="pyg-search-interface" />
+        <module name="pyg-order-service" />
+        <module name="pyg-content-interface" />
+        <module name="springjms_producer" />
+        <module name="SpringDataSolrDemo" />
+        <module name="pyg-seckill-service" />
+        <module name="pyg-pay-interface" />
+        <module name="pyg-page-interface" />
+        <module name="springBootDemo" />
+        <module name="pyg-page-service" />
+        <module name="springjms_consumer" />
+        <module name="pyg-sellergoods-interface" />
+        <module name="pyg-page-web" />
+        <module name="pyg-user-interface" />
+        <module name="pyg-sellergoods-service" />
+        <module name="pyg-order-interface" />
+        <module name="pyg-seckill-web" />
+        <module name="pyg-dao" />
+        <module name="pyg-common" />
+        <module name="pyg-user-service" />
+        <module name="pyg-solr-util" />
+        <module name="pyg-shop-web" />
+        <module name="pyg-cart-service" />
+        <module name="pyg-pay-service" />
+        <module name="CAS-SpringSecurity" />
+        <module name="pyg-search-service" />
+        <module name="pyg-content-service" />
+        <module name="pyg-pojo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="angularJs" target="1.5" />
+      <module name="CAS-SpringSecurity" target="1.7" />
+      <module name="fastDFSDemo" target="1.5" />
+      <module name="FreemarkerDemo" target="1.5" />
+      <module name="JmsDemo" target="1.5" />
+      <module name="pyg-cart-interface" target="1.8" />
+      <module name="pyg-cart-service" target="1.8" />
+      <module name="pyg-cart-web" target="1.8" />
+      <module name="pyg-common" target="1.8" />
+      <module name="pyg-content-interface" target="1.8" />
+      <module name="pyg-content-service" target="1.8" />
+      <module name="pyg-dao" target="1.8" />
+      <module name="pyg-manager-web" target="1.8" />
+      <module name="pyg-order-interface" target="1.8" />
+      <module name="pyg-order-service" target="1.8" />
+      <module name="pyg-order-web" target="1.8" />
+      <module name="pyg-page-interface" target="1.8" />
+      <module name="pyg-page-service" target="1.8" />
+      <module name="pyg-page-web" target="1.8" />
+      <module name="pyg-parent" target="1.8" />
+      <module name="pyg-pay-interface" target="1.8" />
+      <module name="pyg-pay-service" target="1.8" />
+      <module name="pyg-pojo" target="1.8" />
+      <module name="pyg-portal-web" target="1.8" />
+      <module name="pyg-search-interface" target="1.8" />
+      <module name="pyg-search-service" target="1.8" />
+      <module name="pyg-search-web" target="1.8" />
+      <module name="pyg-seckill-interface" target="1.8" />
+      <module name="pyg-seckill-service" target="1.8" />
+      <module name="pyg-seckill-web" target="1.8" />
+      <module name="pyg-sellergoods-interface" target="1.8" />
+      <module name="pyg-sellergoods-service" target="1.8" />
+      <module name="pyg-shop-web" target="1.8" />
+      <module name="pyg-solr-util" target="1.8" />
+      <module name="pyg-task-service" target="1.8" />
+      <module name="pyg-user-interface" target="1.8" />
+      <module name="pyg-user-service" target="1.8" />
+      <module name="pyg-user-web" target="1.8" />
+      <module name="pyg_sms_service" target="1.8" />
+      <module name="springBootDemo" target="1.8" />
+      <module name="SpringDataRedisDemo" target="1.5" />
+      <module name="SpringDataSolrDemo" target="1.5" />
+      <module name="SpringDateRedisDemo" target="1.5" />
+      <module name="springjms_consumer" target="1.5" />
+      <module name="springjms_produce" target="1.5" />
+      <module name="springjms_producer" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="pyg_sms_service" options="-parameters" />
+      <module name="springBootDemo" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-cart-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-cart-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-content-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-content-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-order-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-page-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-page-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-page-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-pay-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-pay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-seckill-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-seckill-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-seckill-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-sellergoods-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-sellergoods-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-shop-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-solr-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-task-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg-user-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyg_sms_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBootDemo" charset="UTF-8" />
+  </component>
+</project>

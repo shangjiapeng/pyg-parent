@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pyg-cart-web:war">
+    <output-path>$PROJECT_DIR$/pyg-cart-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>pyg-cart-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="pyg-cart-web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pyg-cart-web:war exploded" />
+    </root>
+  </artifact>
+</component>
